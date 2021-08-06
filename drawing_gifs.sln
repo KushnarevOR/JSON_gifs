@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "drawing_gifs", "drawing_gifs\drawing_gifs.pyproj", "{577CE1A0-2CAA-49E6-B5E7-8AA837661908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577CE1A0-2CAA-49E6-B5E7-8AA837661908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577CE1A0-2CAA-49E6-B5E7-8AA837661908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD23256-605F-4C72-B279-EE10F39BD593}
+	EndGlobalSection
+EndGlobal
